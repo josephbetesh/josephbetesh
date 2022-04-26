@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Joe
+- Currently building at OpenStore
+- Design & tech enthusiast
+- Love to code
