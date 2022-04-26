@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Joe
-- Currently building at OpenStore
-- Design & tech enthusiast
-- Love to code
+👋 Hi, I’m Joe
+I'm currently building at OpenStore
+Follow me on Twitter @joseph_betesh
